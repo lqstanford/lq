@@ -1,0 +1,30 @@
+---
+---
+
+@import "variables";
+@import "bootstrap/scss/bootstrap";
+
+
+.wrap {
+	margin: 50px 100px;
+	width: calc(100% - 200px);
+}
+
+.top-nav {
+	
+}
+
+.top-nav ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.top-nav li {
+	float: left;
+	padding: 8px;
+}
+
+.top-nav li a {
+	display: block;
+}
